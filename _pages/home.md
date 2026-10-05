@@ -17,8 +17,8 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-seo_title: "{title} | Smart Web Agency"
-seo_description: "Web agency a Roma dal 2013: siti web, e-commerce, SEO, Google Ads e brand identity su misura per imprenditori, start up e PA. Prima consulenza gratuita, risposta entro 24 ore."
+seo_title: "{title} | Ricarica auto elettriche"
+seo_description: "Wallbox e colonnine di ricarica per auto elettriche a casa, in condominio e in azienda: consulenza, installazione certificata e preventivo gratuito. Risposta entro 24 ore."
 ---
 
 <style>
@@ -76,13 +76,13 @@ html[data-theme="dark"] .prj-home-more a{border-color:rgba(255,255,255,.3)}
 <!-- ===== MARTE END (html) ===== -->
 <canvas id="rete-cv" aria-hidden="true"></canvas>
 
-## Web Agency a Roma dal 2013, al fianco della crescita del tuo business.
+## La ricarica per la tua auto elettrica, a casa, in condominio e in azienda.
 
-Comunicazione, web marketing e sviluppo di piattaforme digitali: aiutiamo imprenditori, start up e grandi aziende a crescere, nel privato come nella Pubblica Amministrazione. Ogni progetto nasce da un'analisi su misura del business e degli obiettivi, combinando creatività e concretezza per ottenere risultati misurabili.
+Ti aiutiamo a scegliere e installare la soluzione di ricarica più adatta: wallbox domestiche, punti di ricarica per condomini e colonnine per aziende, hotel e parcheggi. Partiamo dalla tua auto, dal contatore e dall'uso che ne fai, così la potenza giusta costa il giusto, senza sprechi.
 
-Un team unico di professionisti coordina ogni fase, dalla strategia al risultato: siti, e-commerce, campagne, brand identity e applicativi su misura. Rispondiamo entro 24 ore, festivi esclusi, e la prima consulenza è gratuita.
+Pensiamo noi alla parte tecnica e burocratica: sopralluogo, progetto elettrico, installazione a regola d'arte con dichiarazione di conformità e, quando serve, supporto per le pratiche condominiali e per gli incentivi. Rispondiamo entro 24 ore, festivi esclusi, e il preventivo è gratuito.
 
-**Vuoi far crescere il tuo business?** Scrivici su WhatsApp o richiedi un preventivo: costruiamo insieme la soluzione giusta per te.
+**Stai per passare all'elettrico?** Scrivici su WhatsApp o richiedi un preventivo: troviamo insieme la ricarica giusta per te.
 
 </div>
 
